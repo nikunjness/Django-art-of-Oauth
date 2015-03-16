@@ -1,0 +1,5 @@
+.idea/
+venv
+webapp/db.sqlite3
+webapp/db.sqlite31
+webapp/artofoauth/local_settings.py
